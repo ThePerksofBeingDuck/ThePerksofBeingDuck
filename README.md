@@ -1,8 +1,20 @@
-Hello, 
-I'm Duck and I'm new to content creation.
-I will mainly make projects that I make because they benifit me, but I will make them public for anyone.
+<div style="width: 100%;">
+  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
-<!---
-ThePerksofBeingDuck/ThePerksofBeingDuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+**ThePerksofBeingDuck/ThePerksofBeingDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
