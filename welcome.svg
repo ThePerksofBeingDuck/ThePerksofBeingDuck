@@ -170,11 +170,11 @@
 
       @media (prefers-color-scheme: light) {
         .body {
-          --color-main: #9B5DE5;
-          --color-primary: #F15BB5;
-          --color-secondary: #00BBF9;
+          --color-main: #7A7D7D;
+          --color-primary: #D0CFCF;
+          --color-secondary: #565254;
           --color-background: #ffffff;
-          --color-link: #00BBF9;
+          --color-link: #565254;
           --color-link-active: #F15BB5;
         }
       }
